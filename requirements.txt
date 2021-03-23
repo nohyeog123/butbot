@@ -1,0 +1,8 @@
+webdriver
+Options as ChromeOptions
+WebDriverWait
+expected_conditions as EC
+By
+tasks
+cycle
+discord, sqlite3, datetime, asyncio, time, configparser, os, sys, json.py==0.16.12
